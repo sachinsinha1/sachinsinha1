@@ -1,6 +1,6 @@
 ### Hi there
 
-I am [Sachin Sinha](https://www.linkedin.com/in/sachin-sinha-3baab2164/), Worked as a Game Tester (Functional QA) with Ubisoft Entertainment. I do freelance work as Graphics Designer, Motion Graphics Designer and Video Editor, as having passion for games and content creation I also run a YouTube channel Xeon Hacker regarding Game Testing, Benchmarks, etc., currently chanel have 2.5K+ subscriber and 100+ videos.
+I am [Sachin Sinha](https://www.linkedin.com/in/sachin-sinha-3baab2164/), Worked as a Game Tester (Functional QA) with Ubisoft Entertainment. I do freelance work as Graphics Designer, Motion Graphics Designer and Video Editor, as having passion for games and content creation I also run a YouTube channel [Xeon Hacker](https://www.youtube.com/channel/UC8sjOWdFW8lUfu0NLIjEsCg) regarding Game Testing, Benchmarks, etc., currently chanel have 2.5K+ subscriber and 100+ videos.
 
 Languages and tools:
 <code><img height="20" src="https://github.com/sachinsinha1/sachinsinha1/blob/main/images/c-logo-icon-18.png"></code>
