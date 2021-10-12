@@ -4,6 +4,7 @@ I am [Sachin Sinha](https://www.linkedin.com/in/sachin-sinha-3baab2164/), Worked
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=sachinsinha1&style=flat-square&color=lightgrey">
+</a>
 
 Languages and tools:
 <code><img height="20" src="https://github.com/sachinsinha1/sachinsinha1/blob/main/images/c-logo-icon-18.png"></code>
